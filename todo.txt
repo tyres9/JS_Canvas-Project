@@ -1,0 +1,7 @@
+
+
+
+
+- add a pop up input 
+    - input the number of box to create
+    - input for box for the name of the box
